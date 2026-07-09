@@ -2,7 +2,7 @@
 
 An Excel dashboard tracking a full year of sales, expenses, and profit, broken down by day, month, and quarter, with recommendations based on the underlying trends. Built entirely in Excel, from raw data through a calendar based date model to a finished dashboard.
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Sales%20Dashboard%20for%202025%20(Excel).png)
 *Sales dashboard for 2025, with KPI summary and recommendations*
 
 ## 📌 Overview
@@ -51,9 +51,6 @@ This mirrors a date dimension table, the structure used in BI tools like Power B
 | Distribution by Month | Line | Sales by month across the year, generally trending upward toward the later months |
 | Distribution by Day | Bar | Sales by weekday, with Friday and Monday well ahead of the rest and Thursday the lowest |
 | Sales Distribution by Quarter | Pie | Sales by quarter, increasing steadily from Q1 through Q4 |
-
-![Dashboard Detail](images/dashboard_detail.png)
-*Sales by month, by weekday, and by quarter*
 
 ## 💡 Recommendations
 
